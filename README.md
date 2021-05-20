@@ -1,1 +1,3 @@
 # crystalbreakgame
+
+masterブランチに置いてあります
